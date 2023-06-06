@@ -8,11 +8,14 @@
 </h1>
 
 ---
-### Tecnologias
+### Recursos
 
-As seguintes ferramentas foram usadas na construção do projeto:
-
+Linguagem:
+<br>
 ![JAVA](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=JAVA)
+<br>
+Framework:
+<br>
 ![SPRING](https://img.shields.io/badge/-SPRING-05122A?style=flat&logo=SPRING)
 
 ---
